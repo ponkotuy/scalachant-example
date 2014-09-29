@@ -13,4 +13,3 @@ licenses += ("MIT", url("http://opensource.org/licenses/mit-license.php"))
 libraryDependencies ++= Seq(
   "org.scala-lang.modules.scalajs" %% "scalajs-dom" % "0.3"
 )
-
